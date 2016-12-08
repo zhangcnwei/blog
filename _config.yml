@@ -70,4 +70,4 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/zhangcnwei/blog.git
-  branch: gh-deploy
+  branch: gh-pages
