@@ -22,7 +22,7 @@ rss: /atom.xml
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: /blog/
+root: /
 
 # Content
 
@@ -72,11 +72,12 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  xmqbt.net: http://xmqbt.net/
+  #友情链接2: http://localhost:4000/
+  #友情链接3: http://localhost:4000/
+  #友情链接4: http://localhost:4000/
+  #友情链接5: http://localhost:4000/
+  #友情链接6: http://localhost:4000/
 
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+

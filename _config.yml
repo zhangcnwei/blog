@@ -10,10 +10,11 @@ author: zhangwei
 language: chinese
 keywords: "前端,后段,C#,ASP.net,MVC,EF,SQL,MongoDB,css,html,html5,javascript,jquery,开发者,程序猿,编程,代码,开源,IT网站,Developer,Programmer,Coder"
 
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://xmqbt.net/blog
-root: /blog/
+url: //xmqbt.net
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,5 +70,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zhangcnwei/blog.git
+  repository: git@github.com:zhangcnwei/blog.git
   branch: gh-pages
