@@ -72,3 +72,23 @@ deploy:
   type: git
   repository: https://github.com/zhangcnwei/little.git
   branch: gh-pages
+
+
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+      title: true
+      date: true
+      path: true
+      text: true
+      raw: false
+      content: false
+      slug: false
+      updated: false
+      comments: false
+      link: false
+      permalink: false
+      excerpt: false
+      categories: false
+      tags: true
