@@ -1,6 +1,7 @@
 ---
 title: angular 1.X 常用指令、函数
 date: 2016-3-08
+reward: true
 tags: 
     - javascript
     - angular

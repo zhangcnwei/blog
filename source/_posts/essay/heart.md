@@ -1,6 +1,7 @@
 ---
 title: 心情品读
 date: 2016-4-08
+reward: true
 tags: 
     - other
     - essay
