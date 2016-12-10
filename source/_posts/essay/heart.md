@@ -9,7 +9,7 @@ tags:
 
 # 你简单，世界就简单
 
-![海](http://ohvfwtokh.bkt.clouddn.com/IMG_1221.JPG)
+![海](http://ohvfwtokh.bkt.clouddn.com/fengjing.png)
 
 何谓素心？心地纯朴之意。语出南朝宋颜延之《陶徵士诔》：“弱不好弄，长实素心。”如此看来，素心做人，古往今来，格外追崇。
 

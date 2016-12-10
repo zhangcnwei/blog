@@ -11,11 +11,11 @@ subnav:
   #rss: "#"
   #zhihu: "#"
   #douban: "#"
-  mail: "mailto:zhangwei@secondcompany.cn"
+  mail: "mailto:zzhwei2015@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
-  #linkedin: "#"
+  #linkedin: "https://cn.linkedin.com/in/zhangwei-zhang-bb2964133"
 
 rss: /atom.xml
 
@@ -43,9 +43,9 @@ reward_type: 1
 # 打赏wording
 reward_wording: '谢谢土豪！！！'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: /img/wx.jpg
+alipay: 
 # 微信二维码图片地址
-weixin: 
+weixin: /img/wx.jpg
 
 # Miscellaneous
 google_analytics: ''
