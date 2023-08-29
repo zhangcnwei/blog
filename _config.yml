@@ -12,7 +12,7 @@ keywords: "前端,后段,C#,ASP.net,MVC,EF,SQL,MongoDB,css,html,html5,javascript
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://xmqbt.net/blog
+url: https://blog.xmqbt.com/blog
 root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
